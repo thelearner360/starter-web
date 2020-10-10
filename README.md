@@ -12,6 +12,7 @@ Sample website with plenty of files for GIT demos
 to check different GIT commands and work on comarition tools
 
 # how to contribute
+ please fork this repo and raise a pull request to review and add your code to the repo
 
 # Copyright 
 
